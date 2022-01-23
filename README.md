@@ -9,3 +9,4 @@ Run AnalysisProject.py in order to generate plots sequencially. Save them manual
 ![alt text](https://github.com/codr-oneci/Stellar-cluster-age-from-color-magnitude-diagram/blob/main/CMD_Isochrones_M52_detail.png)
 
 
+Library dependencies: numpy, sep, astropy, matplotlib, isochrones. The cluster of choice, M52 is young, having a metalicity of [Fe/H]=-0.11 (slightly smaller than that of the Sun, by definition 0.0). Relevant Padova (theoretical in the ugriz photometric system) isochrones at http://pleiadi.pd.astro.it/.
